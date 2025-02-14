@@ -1,0 +1,2 @@
+camera
+-DCATKIN_DEVEL_PREFIX=/home/alper/tis/devel -DCMAKE_INSTALL_PREFIX=/home/alper/tis/install -G Unix Makefiles
